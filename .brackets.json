@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/souphankeodouangkham/bloc/8ball/platforms/ios/build/emulator/HelloCordova.app/www/lib/ionic/js/ionic.min.js",
+        "/Users/souphankeodouangkham/bloc/8ball/www/lib/ionic/js/ionic.min.js",
+        "/Users/souphankeodouangkham/bloc/8ball/www/lib/ionic/js/ionic.js"
+    ]
+}
